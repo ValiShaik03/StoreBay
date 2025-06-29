@@ -21,4 +21,18 @@
 ```bash
 npm install
 ```
+## 🖼️ Project Preview
 
+![StoreBay Homepage](./assets/homepage.png)
+![StoreBay signuppage](./assets/signuppage.png)
+
+📄 License <br>
+This project is licensed under the [MIT License](LICENSE).
+
+ 🙋‍♂️ Contact <br>
+Developed by [ValiShaik](https://github.com/ValiShaik03) – feel free to reach out!
+
+Email: mvali060103@gmail.com  
+GitHub: [github.com/ValiShaik03](https://github.com/ValiShaik03)
+
+ 
