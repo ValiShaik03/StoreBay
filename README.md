@@ -23,7 +23,9 @@ npm install
 ```
 ## 🖼️ Project Preview
 
-![StoreBay Homepage](./assets/homepage.png)
+HomePage<br>
+![StoreBay Homepage](./assets/homepage.png) <br>
+SignUpPage
 ![StoreBay signuppage](./assets/signuppage.png)
 
 📄 License <br>
